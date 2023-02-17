@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import React from "react";
 import "./Navbar.css";
 
 const Navbar = () => {
